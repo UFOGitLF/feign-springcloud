@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service-provider
+server:
+  port: 9999
